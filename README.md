@@ -6,7 +6,7 @@ A [Bootstrap](http://getbootstrap.com) pastel theme designed for use on [Compute
 Demo
 ----
 
-A live demo of this theme that showcases most components can be found [here](https://s3.csh.rit.edu/csh-pastel-bootstrap/4.0.0/index.html).
+A live demo of this theme that showcases most components can be found [here](https://s3.csh.rit.edu/csh-pastel-bootstrap/4.3.1/index.html).
 
 Usage
 ------
@@ -37,7 +37,7 @@ Use CSH Pastel Bootstrap without a package manager.
 ###### CSS
 
 ```
-<link rel="stylesheet" href="https://s3.csh.rit.edu/csh-pastel-bootstrap/4.0.0/dist/csh-pastel-bootstrap.min.css" media="screen">
+<link rel="stylesheet" href="https://s3.csh.rit.edu/csh-pastel-bootstrap/4.3.1/dist/csh-pastel-bootstrap.min.css" media="screen">
 ```
 
 ###### JS, Popper.js, and jQuery
